@@ -1,7 +1,5 @@
 ## Myuzo Labs: Your Collaborative Playground for Sound Exploration
 
-![logo-myuzo](https://github.com/myuzo-labs/.github/assets/122766281/1495c1b9-bcfb-4066-bd78-f0e3bac5611e)
-
 *Myuzo Labs empowers artists to explore, experiment, and shape sound together. Our collaborative version control platform unlocks new creative possibilities through advanced audio separation, intuitive AI tools, and a community dedicated to pushing sonic boundaries.*
 
 **Where next-gen music is made.**
