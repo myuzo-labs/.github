@@ -4,9 +4,8 @@
 
 ### Explore Our Projects
 
-[myuzo-core](https://github.com/myuzo-labs/myuzo-core)
-
-* [myuzo-labs-meta] (Link to your manifesto repo if you have this)
+* [myuzo-core](https://github.com/myuzo-labs/myuzo-core)
+* [myuzo-labs-meta](https://github.com/myuzo-labs/myuzo-labs-meta) 
 
 ### Join the Community
 
