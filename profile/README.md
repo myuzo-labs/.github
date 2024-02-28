@@ -13,6 +13,8 @@
 
 We're building Myuzo Labs in phases to deliver value to our users quickly while ensuring a strong foundation for long-term innovation.
 
+Myuzo Labs is where artists take the lead, collaboration sparks inspiration, and sonic exploration is the driving force. We provide the tools for your musical journey, and together, we'll break boundaries to shape the future of sound.
+
 **Proposed Workflow**
 
 1. **Platform Foundation:** Focus on core features:
@@ -29,7 +31,8 @@ We're building Myuzo Labs in phases to deliver value to our users quickly while 
 4. **Community-Driven AI Development:**  We believe AI should serve the artist.  By optionally contributing audio data, Myuzo users will directly shape the development of a custom AI audio engine, resulting in:
   * Tools that unlock unprecedented sonic control, such as style transfer and intelligent remixing.
   * AI that expands creative possibilities, reflecting the community's diverse styles and ideas.
-  * **Transparency:** We are committed to ethical and responsible use of data. Learn more in our Privacy Policy. 
+  * **Transparency:** We are committed to the ethical and responsible use of data. Learn more in our Privacy Policy. 
+ 
 
 ### Join the Journey!
 
