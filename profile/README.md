@@ -7,7 +7,7 @@
 ### Explore Our Projects
 
 * [myuzo-core](https://github.com/myuzo-labs/myuzo-core)
-* [myuzo-labs-meta](https://github.com/myuzo-labs/myuzo-labs-meta) 
+* [docs](https://github.com/myuzo-labs/myuzo-labs-meta) 
 
 ### Development Philosophy
 
