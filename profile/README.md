@@ -1,6 +1,6 @@
 # Myuzo Labs: Pioneering the AVC Ecosystem
 
-Welcome to @myuzo-labs, the nexus of AVC (Audio Version Control) — an ecosystem poised to transform music production by melding the collaborative and version control capabilities of software development with the unique needs of music creation. Leveraged by the latest in Web3 technologies, AVC is engineered to tackle the inherent challenges of music production, paving the way for more secure, transparent, and fluid collaborative experiences.
+Welcome to myuzo-labs, the nexus of AVC (Audio Version Control) — an ecosystem poised to transform music production by melding the collaborative and version control capabilities of software development with the unique needs of music creation. Leveraged by the latest in Web3 technologies, AVC is engineered to tackle the inherent challenges of music production, paving the way for more secure, transparent, and fluid collaborative experiences.
 
 ## AVC: Redefining Music Production
 
