@@ -32,7 +32,7 @@ AVC integrates sophisticated AI music tools from [Nendo.ai](https://nendo.ai), o
 
 - **Merge with Conflict Resolution**: Employs sophisticated algorithms to reconcile differences in music projects, smoothly blending various elements despite the inherent complexities of audio files.
 
-## Be Part of the Myuzo Labs Odyssey
+## Be Part of the Myuzo Labs 
 
 Myuzo Labs is more than a platform; it's a crucible for innovation in music production, where every artist, developer, and enthusiast can leave a mark. Your insights, creativity, and passion are crucial in sculpting the future of music.
 
